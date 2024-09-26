@@ -5,25 +5,25 @@ repo: rs-flex-uptime # The name of this repository
 sites:
   - name: nova-api
     url: https://nova.api.sjc3.rackspacecloud.com
-  - name: neutron-api
+  - name: neutron-probe
     url: https://neutron.api.sjc3.rackspacecloud.com
-  - name: keystone-api
+  - name: keystone-probe
     url: https://keystone.api.sjc3.rackspacecloud.com/v3
-  - name: octavia-api
+  - name: octavia-probe
     url: https://octavia.api.sjc3.rackspacecloud.com
-  - name: glance-api
+  - name: glance-probe
     url: https://glance.api.sjc3.rackspacecloud.com
-  - name: heat-api
+  - name: heat-probe
     url: https://heat.api.sjc3.rackspacecloud.com
-  - name: cinder-api
+  - name: cinder-probe
     url: https://cinder.api.sjc3.rackspacecloud.com
-  - name: cloudformation-api
+  - name: cloudformation-probe
     url: https://cloudformation.api.sjc3.rackspacecloud.com
-  - name: placement-api
+  - name: placement-probe
     url: https://placement.api.sjc3.rackspacecloud.com
-  - name: barbican-api
+  - name: barbican-probe
     url: https://barbican.api.sjc3.rackspacecloud.com
-  - name: magnum-api
+  - name: magnum-probe
     url: https://magnum.api.sjc3.rackspacecloud.com
 
 status-website:
@@ -32,7 +32,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /rs-flex-uptime
   logoUrl: https://docs.rackspacecloud.com/assets/images/rackspace_logo-white.svg
-  favicon: https://files.readme.io/03d0889-favicon.ico
+  favicon: https://docs.rackspacecloud.com/assets/images/pngegg.png
   themeUrl: https://the2hill.github.io/rs-flex-uptime/flex.css
   name: Flex Cloud Status
   introTitle: "API Monitoring"
