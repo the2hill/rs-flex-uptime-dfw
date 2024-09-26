@@ -8,7 +8,7 @@ sites:
   - name: neutron-probe
     url: https://neutron.api.sjc3.rackspacecloud.com
   - name: keystone-probe
-    url: https://keystone.api.sjc3.rackspacecloud.com
+    url: https://keystone.api.sjc3.rackspacecloud.com/v3
   - name: octavia-probe
     url: https://octavia.api.sjc3.rackspacecloud.com
   - name: glance-probe
@@ -33,8 +33,8 @@ status-website:
   baseUrl: /rs-flex-uptime
   logoUrl: https://files.readme.io/b36afb9-small-Rackspace_Technology_Logo_RGB_WHT.png
   name: rs-flex-uptime
-  introTitle: "**Rackspace Flex** status monitoring page"
-  introMessage: Rackspace Flex cloud status monitoring page
+  introTitle: "**Rackspace Flex Cloud** status monitoring page"
+  #introMessage:
   navbar:
     - title: Status
       href: /
