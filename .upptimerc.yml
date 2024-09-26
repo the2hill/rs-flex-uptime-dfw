@@ -35,7 +35,7 @@ status-website:
   favicon: https://docs.rackspacecloud.com/assets/images/pngegg.png
   themeUrl: https://the2hill.github.io/rs-flex-uptime/flex.css
   name: Flex Cloud Status
-  introTitle: "API Monitoring"
+  introTitle: "Flex API Status"
   #introMessage:
   navbar:
     - title: Status
