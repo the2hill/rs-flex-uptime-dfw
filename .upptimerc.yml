@@ -32,6 +32,8 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /rs-flex-uptime
   logoUrl: https://files.readme.io/b36afb9-small-Rackspace_Technology_Logo_RGB_WHT.png
+  favicon: https://files.readme.io/03d0889-favicon.ico
+  theme: light
   name: rs-flex-uptime
   introTitle: "**Rackspace Flex Cloud** status monitoring page"
   #introMessage:
@@ -40,6 +42,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Rackspace
+      href: https://rackspace.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
