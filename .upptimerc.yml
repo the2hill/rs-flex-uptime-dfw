@@ -34,7 +34,7 @@ status-website:
   logoUrl: https://www.rackspace.com/themes/custom/hansel/images/rs-logo-2021B.svg
   favicon: https://files.readme.io/03d0889-favicon.ico
   themeUrl: https://the2hill.github.io/rs-flex-uptime/flex.css
-  name: rs-flex-uptime
+  name: Flex Cloud Status
   introTitle: "**Rackspace Flex Cloud** status monitoring page"
   #introMessage:
   navbar:
