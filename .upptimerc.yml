@@ -31,9 +31,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /rs-flex-uptime
-  logoUrl: https://files.readme.io/b36afb9-small-Rackspace_Technology_Logo_RGB_WHT.png
+  logoUrl: https://www.rackspace.com/themes/custom/hansel/images/rs-logo-2021B.svg
   favicon: https://files.readme.io/03d0889-favicon.ico
-  theme: light
+  themeUrl: https://the2hill.github.io/rs-flex-uptime/flex.css
   name: rs-flex-uptime
   introTitle: "**Rackspace Flex Cloud** status monitoring page"
   #introMessage:
