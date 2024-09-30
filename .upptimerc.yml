@@ -33,7 +33,7 @@ status-website:
   #baseUrl: /rs-flex-uptime
   logoUrl: https://docs.rackspacecloud.com/assets/images/rackspace_logo-white.svg
   favicon: https://docs.rackspacecloud.com/assets/images/pngegg.png
-  themeUrl: https://status.api.sjc3.rackspacecloud.com//flex.css
+  themeUrl: https://status.api.sjc3.rackspacecloud.com/flex.css
   name: Rackspace Flex Cloud
   introTitle: "Flex API Status"
   #introMessage:
@@ -42,8 +42,6 @@ status-website:
       href: /
     - title: Genestack GitHub
       href: https://docs.rackspacecloud.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Rackspace
       href: https://rackspace.com
 
