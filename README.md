@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.api.sjc3.rackspacecloud.com/): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [phillip.toohill](https://the2hill.github.io/rs-flex-uptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Rackspace Flex API Status](https://status.api.sjc3.rackspacecloud.com/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/rackerlabs/rs-flex-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/the2hill/rs-flex-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/rackerlabs/rs-flex-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/the2hill/rs-flex-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
