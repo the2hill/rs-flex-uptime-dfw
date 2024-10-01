@@ -29,6 +29,6 @@ if response.status_code == 200:
 else:
     print("Failed to retrieve the website")
 
-f = open("status.txt", "w")
+f = open("status.json", "w")
 f.write(json.dumps(outdict))
 f.close()
