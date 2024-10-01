@@ -2,10 +2,10 @@ name: Update Status
 
 on:
   schedule:
-    - cron: "*7 * * * *"
+    - cron: "*/7 * * * *"
 
 jobs:
-  getdataandrefreshmap:
+  updatestatus:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
