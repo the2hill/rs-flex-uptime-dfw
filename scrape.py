@@ -1,3 +1,4 @@
+import json
 import requests
 
 # Send a GET request to the website
@@ -29,5 +30,5 @@ else:
     print("Failed to retrieve the website")
 
 f = open("status.txt", "w")
-f.write(str(outdict))
+f.write(json.dumps(outdict))
 f.close()
