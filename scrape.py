@@ -6,6 +6,7 @@ response = requests.get(url)
 
 # Check if the request was successful
 if response.status_code == 200:
+    resp = str(response.content)
     uptxt = 'All systems operational'
     degradedtxt = 'Degraded performance'
     fullouttxt = 'Complete outage'
@@ -15,13 +16,13 @@ if response.status_code == 200:
               "message": "operational",
               "color": "brightgreen"
               }
-    if degradedtxt in response.content:
+    if degradedtxt in resp:
         outdict['message'] = 'degraded'
         outdict['color'] = 'yellow'
-    elif fullouttxt in response.content:
+    elif fullouttxt in resp:
         outdict['message'] = 'outage'
         outdict['color'] = 'red'
-    elif partialouttxt in response.content:
+    elif partialouttxt in resp:
         outdict['message'] = 'partial outage'
         outdict['color'] = 'orange'
 else:
