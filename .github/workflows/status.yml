@@ -3,7 +3,7 @@ name: Update Status
 on:
   schedule:
     - cron: "*/7 * * * *"
-
+  workflow_dispatch:
 jobs:
   updatestatus:
     runs-on: ubuntu-latest
