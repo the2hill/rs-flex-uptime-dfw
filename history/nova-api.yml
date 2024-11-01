@@ -1,7 +1,7 @@
 url: https://nova.api.sjc3.rackspacecloud.com
-status: down
-code: 502
-responseTime: 3552
-lastUpdated: 2024-11-01T01:35:24.867Z
+status: up
+code: 200
+responseTime: 358
+lastUpdated: 2024-11-01T02:12:48.347Z
 startTime: 2024-09-26T21:41:28.080Z
 generator: Upptime <https://github.com/upptime/upptime>
