@@ -4,9 +4,9 @@
     "url": "https://nova.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/nova.api.sjc3.rackspacecloud.com.ico",
     "slug": "nova-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 384,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-08": 6,
       "2024-11-01": 37,
       "2024-10-04": 7
@@ -26,9 +27,9 @@
     "url": "https://neutron.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/neutron.api.sjc3.rackspacecloud.com.ico",
     "slug": "neutron-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
@@ -38,6 +39,7 @@
     "timeMonth": 263,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-08": 6,
       "2024-10-04": 7
     }
@@ -47,9 +49,9 @@
     "url": "https://keystone.api.sjc3.rackspacecloud.com/v3",
     "icon": "https://icons.duckduckgo.com/ip3/keystone.api.sjc3.rackspacecloud.com.ico",
     "slug": "keystone-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
@@ -59,6 +61,7 @@
     "timeMonth": 292,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-08": 6,
       "2024-10-04": 6
     }
@@ -68,9 +71,9 @@
     "url": "https://octavia.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/octavia.api.sjc3.rackspacecloud.com.ico",
     "slug": "octavia-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.76%",
@@ -80,6 +83,7 @@
     "timeMonth": 525,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-01": 137,
       "2024-10-10": 6,
       "2024-10-04": 6
@@ -90,9 +94,9 @@
     "url": "https://glance.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/glance.api.sjc3.rackspacecloud.com.ico",
     "slug": "glance-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.82%",
@@ -102,6 +106,7 @@
     "timeMonth": 510,
     "timeYear": 410,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-01": 100,
       "2024-10-10": 5,
       "2024-10-04": 5
@@ -112,9 +117,9 @@
     "url": "https://heat.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/heat.api.sjc3.rackspacecloud.com.ico",
     "slug": "heat-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
@@ -124,6 +129,7 @@
     "timeMonth": 363,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-01": 37,
       "2024-10-10": 5,
       "2024-10-04": 5
@@ -134,10 +140,10 @@
     "url": "https://cinder.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cinder.api.sjc3.rackspacecloud.com.ico",
     "slug": "cinder-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.87%",
     "time": 391,
@@ -146,6 +152,7 @@
     "timeMonth": 471,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-11": 7,
       "2024-11-01": 67,
       "2024-10-04": 4
@@ -156,9 +163,9 @@
     "url": "https://cloudformation.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloudformation.api.sjc3.rackspacecloud.com.ico",
     "slug": "cloudformation-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
@@ -168,6 +175,7 @@
     "timeMonth": 527,
     "timeYear": 420,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-01": 30,
       "2024-10-04": 4
     }
@@ -177,9 +185,9 @@
     "url": "https://placement.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/placement.api.sjc3.rackspacecloud.com.ico",
     "slug": "placement-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.82%",
@@ -189,6 +197,7 @@
     "timeMonth": 413,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-01": 106,
       "2024-10-04": 3
     }
@@ -198,9 +207,9 @@
     "url": "https://barbican.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/barbican.api.sjc3.rackspacecloud.com.ico",
     "slug": "barbican-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -210,6 +219,7 @@
     "timeMonth": 531,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-01": 67,
       "2024-10-10": 4,
       "2024-10-08": 6,
@@ -222,11 +232,11 @@
     "url": "https://magnum.api.sjc3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/magnum.api.sjc3.rackspacecloud.com.ico",
     "slug": "magnum-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 409,
     "timeDay": 160,
@@ -234,6 +244,7 @@
     "timeMonth": 513,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-01": 37,
       "2024-10-10": 4,
       "2024-10-08": 5,
