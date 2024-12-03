@@ -1,7 +1,7 @@
 url: https://octavia.api.sjc3.rackspacecloud.com
-status: down
-code: 502
-responseTime: 285
-lastUpdated: 2024-12-03T13:15:38.269Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2024-12-03T14:57:03.955Z
 startTime: 2024-09-30T12:24:43.070Z
 generator: Upptime <https://github.com/upptime/upptime>
