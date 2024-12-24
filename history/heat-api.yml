@@ -1,7 +1,7 @@
 url: https://heat.api.sjc3.rackspacecloud.com
-status: down
-code: 502
-responseTime: 74
-lastUpdated: 2024-12-24T17:04:31.941Z
+status: up
+code: 300
+responseTime: 181
+lastUpdated: 2024-12-24T17:13:18.689Z
 startTime: 2024-09-30T12:24:44.158Z
 generator: Upptime <https://github.com/upptime/upptime>
