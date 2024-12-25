@@ -1,7 +1,7 @@
 url: https://neutron.api.sjc3.rackspacecloud.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-25T18:20:31.787Z
+status: up
+code: 200
+responseTime: 69
+lastUpdated: 2024-12-25T18:32:04.812Z
 startTime: 2024-09-30T12:24:41.918Z
 generator: Upptime <https://github.com/upptime/upptime>
