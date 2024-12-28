@@ -1,7 +1,7 @@
 url: https://cinder.api.sjc3.rackspacecloud.com
-status: down
-code: 502
-responseTime: 140
-lastUpdated: 2024-12-28T03:21:56.138Z
+status: up
+code: 300
+responseTime: 267
+lastUpdated: 2024-12-28T03:40:38.670Z
 startTime: 2024-09-30T12:24:44.730Z
 generator: Upptime <https://github.com/upptime/upptime>
