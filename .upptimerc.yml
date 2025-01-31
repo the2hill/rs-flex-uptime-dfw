@@ -4,33 +4,33 @@ repo: rs-flex-uptime # The name of this repository
 
 sites:
   - name: nova-api
-    url: https://nova.api.sjc3.rackspacecloud.com
+    url: https://nova.api.dfw3.rackspacecloud.com
   - name: neutron-api
-    url: https://neutron.api.sjc3.rackspacecloud.com
+    url: https://neutron.api.dfw3.rackspacecloud.com
   - name: keystone-api
-    url: https://keystone.api.sjc3.rackspacecloud.com/v3
+    url: https://keystone.api.dfw3.rackspacecloud.com/v3
   - name: octavia-api
-    url: https://octavia.api.sjc3.rackspacecloud.com
+    url: https://octavia.api.dfw3.rackspacecloud.com
   - name: glance-api
-    url: https://glance.api.sjc3.rackspacecloud.com
+    url: https://glance.api.dfw3.rackspacecloud.com
   - name: heat-api
-    url: https://heat.api.sjc3.rackspacecloud.com
+    url: https://heat.api.dfw3.rackspacecloud.com
   - name: cinder-api
-    url: https://cinder.api.sjc3.rackspacecloud.com
+    url: https://cinder.api.dfw3.rackspacecloud.com
   - name: cloudformation-api
-    url: https://cloudformation.api.sjc3.rackspacecloud.com
+    url: https://cloudformation.api.dfw3.rackspacecloud.com
   - name: placement-api
-    url: https://placement.api.sjc3.rackspacecloud.com
+    url: https://placement.api.dfw3.rackspacecloud.com
   - name: barbican-api
-    url: https://barbican.api.sjc3.rackspacecloud.com
+    url: https://barbican.api.dfw3.rackspacecloud.com
   - name: magnum-api
-    url: https://magnum.api.sjc3.rackspacecloud.com
+    url: https://magnum.api.dfw3.rackspacecloud.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.api.sjc3.rackspacecloud.com
-  #baseUrl: /rs-flex-uptime
+  #cname: status.api.dfw3.rackspacecloud.com
+  baseUrl: /dfw-rs-flex-uptime
   logoUrl: https://docs.rackspacecloud.com/assets/images/rackspace_logo-white.svg
   favicon: https://docs.rackspacecloud.com/assets/images/pngegg.png
   themeUrl: https://status.api.sjc3.rackspacecloud.com/flex.css
@@ -40,7 +40,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Genestack GitHub
+    - title: Docs
       href: https://docs.rackspacecloud.com
     - title: Rackspace
       href: https://rackspace.com
