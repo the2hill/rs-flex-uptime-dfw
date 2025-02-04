@@ -29,8 +29,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.api.dfw3.rackspacecloud.com
-  baseUrl: /dfw-rs-flex-uptime
+  cname: status.api.dfw3.rackspacecloud.com
+  #baseUrl: /dfw-rs-flex-uptime
   logoUrl: https://docs.rackspacecloud.com/assets/images/rackspace_logo-white.svg
   favicon: https://docs.rackspacecloud.com/assets/images/pngegg.png
   themeUrl: https://status.api.dfw3.rackspacecloud.com/flex.css
