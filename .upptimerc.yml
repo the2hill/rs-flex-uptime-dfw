@@ -33,7 +33,7 @@ status-website:
   baseUrl: /dfw-rs-flex-uptime
   logoUrl: https://docs.rackspacecloud.com/assets/images/rackspace_logo-white.svg
   favicon: https://docs.rackspacecloud.com/assets/images/pngegg.png
-  themeUrl: https://status.api.sjc3.rackspacecloud.com/flex.css
+  themeUrl: https://status.api.dfw3.rackspacecloud.com/flex.css
   name: Rackspace Flex Cloud
   introTitle: "Flex API Status"
   #introMessage:
