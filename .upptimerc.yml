@@ -40,10 +40,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: SJC Status
+      hres: https://status.api.sjc3.rackspacecloud.com
     - title: Docs
       href: https://docs.rackspacecloud.com
-    - title: Rackspace
-      href: https://rackspace.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
