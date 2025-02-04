@@ -38,7 +38,7 @@ status-website:
   introTitle: "Flex API Status"
   #introMessage:
   navbar:
-    - title: Status
+    - title: DFW Status
       href: /
     - title: SJC Status
       href: https://status.api.sjc3.rackspacecloud.com
