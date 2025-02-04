@@ -41,7 +41,7 @@ status-website:
     - title: Status
       href: /
     - title: SJC Status
-      hres: https://status.api.sjc3.rackspacecloud.com
+      href: https://status.api.sjc3.rackspacecloud.com
     - title: Docs
       href: https://docs.rackspacecloud.com
 
