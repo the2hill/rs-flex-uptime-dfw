@@ -2,7 +2,7 @@ import json
 import requests
 
 # Send a GET request to the website
-url = "https://raw.githubusercontent.com/rackerlabs/rs-flex-uptime-dfw/refs/heads/master/README.md"
+url = "https://raw.githubusercontent.com/the2hill/rs-flex-uptime-dfw/refs/heads/master/README.md"
 response = requests.get(url)
 
 # Check if the request was successful
