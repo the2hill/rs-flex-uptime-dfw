@@ -9,8 +9,6 @@ sites:
     url: https://neutron.api.dfw3.rackspacecloud.com
   - name: keystone-api
     url: https://keystone.api.dfw3.rackspacecloud.com/v3
-  - name: octavia-api
-    url: https://octavia.api.dfw3.rackspacecloud.com
   - name: glance-api
     url: https://glance.api.dfw3.rackspacecloud.com
   - name: heat-api
