@@ -4,19 +4,19 @@
     "url": "https://nova.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/nova.api.dfw3.rackspacecloud.com.ico",
     "slug": "nova-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 309,
-    "timeDay": 388,
-    "timeWeek": 249,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 308,
+    "timeDay": 328,
+    "timeWeek": 252,
     "timeMonth": 264,
-    "timeYear": 309,
+    "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://neutron.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/neutron.api.dfw3.rackspacecloud.com.ico",
     "slug": "neutron-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 257,
-    "timeDay": 330,
-    "timeWeek": 240,
-    "timeMonth": 241,
+    "timeDay": 307,
+    "timeWeek": 246,
+    "timeMonth": 242,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://keystone.api.dfw3.rackspacecloud.com/v3",
     "icon": "https://icons.duckduckgo.com/ip3/keystone.api.dfw3.rackspacecloud.com.ico",
     "slug": "keystone-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 294,
-    "timeDay": 365,
-    "timeWeek": 205,
-    "timeMonth": 227,
+    "timeDay": 313,
+    "timeWeek": 213,
+    "timeMonth": 228,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://glance.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/glance.api.dfw3.rackspacecloud.com.ico",
     "slug": "glance-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 333,
-    "timeWeek": 195,
-    "timeMonth": 222,
-    "timeYear": 303,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 302,
+    "timeDay": 254,
+    "timeWeek": 192,
+    "timeMonth": 220,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://octavia.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/octavia.api.dfw3.rackspacecloud.com.ico",
     "slug": "octavia-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 411,
-    "timeWeek": 241,
-    "timeMonth": 234,
-    "timeYear": 323,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 322,
+    "timeDay": 332,
+    "timeWeek": 243,
+    "timeMonth": 235,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://heat.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/heat.api.dfw3.rackspacecloud.com.ico",
     "slug": "heat-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 223,
-    "timeDay": 187,
-    "timeWeek": 183,
-    "timeMonth": 221,
+    "timeDay": 181,
+    "timeWeek": 182,
+    "timeMonth": 219,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://cinder.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cinder.api.dfw3.rackspacecloud.com.ico",
     "slug": "cinder-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 204,
-    "timeWeek": 175,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 278,
+    "timeDay": 208,
+    "timeWeek": 180,
     "timeMonth": 206,
-    "timeYear": 279,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://cloudformation.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloudformation.api.dfw3.rackspacecloud.com.ico",
     "slug": "cloudformation-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 261,
-    "timeDay": 203,
-    "timeWeek": 187,
-    "timeMonth": 207,
+    "timeDay": 186,
+    "timeWeek": 184,
+    "timeMonth": 206,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://placement.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/placement.api.dfw3.rackspacecloud.com.ico",
     "slug": "placement-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 215,
-    "timeWeek": 174,
-    "timeMonth": 202,
-    "timeYear": 291,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 290,
+    "timeDay": 199,
+    "timeWeek": 175,
+    "timeMonth": 201,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://barbican.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/barbican.api.dfw3.rackspacecloud.com.ico",
     "slug": "barbican-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 246,
-    "timeDay": 204,
+    "timeDay": 189,
     "timeWeek": 172,
-    "timeMonth": 202,
+    "timeMonth": 201,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://magnum.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/magnum.api.dfw3.rackspacecloud.com.ico",
     "slug": "magnum-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 293,
-    "timeDay": 217,
-    "timeWeek": 182,
-    "timeMonth": 258,
+    "timeDay": 210,
+    "timeWeek": 185,
+    "timeMonth": 256,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 62
     }
   }
 ]
