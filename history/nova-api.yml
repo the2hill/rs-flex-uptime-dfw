@@ -1,7 +1,7 @@
 url: https://nova.api.dfw3.rackspacecloud.com
-status: down
-code: 502
-responseTime: 278
-lastUpdated: 2025-02-21T16:09:02.825Z
+status: up
+code: 200
+responseTime: 360
+lastUpdated: 2025-02-21T16:34:13.935Z
 startTime: 2025-02-05T16:58:09.149Z
 generator: Upptime <https://github.com/upptime/upptime>
