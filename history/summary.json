@@ -205,19 +205,19 @@
     "url": "https://magnum.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/magnum.api.dfw3.rackspacecloud.com.ico",
     "slug": "magnum-api",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 280,
-    "timeDay": 184,
-    "timeWeek": 197,
+    "timeDay": 191,
+    "timeWeek": 198,
     "timeMonth": 193,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-03-04": 0,
+      "2025-03-04": 11,
       "2025-02-08": 62
     }
   }
