@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nova.api.dfw3.rackspacecloud.com.ico",
     "slug": "nova-api",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 300,
-    "timeDay": 357,
-    "timeWeek": 270,
-    "timeMonth": 280,
+    "timeDay": 311,
+    "timeWeek": 288,
+    "timeMonth": 284,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-02-21": 25,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 254,
-    "timeDay": 315,
-    "timeWeek": 263,
-    "timeMonth": 245,
+    "timeDay": 260,
+    "timeWeek": 284,
+    "timeMonth": 249,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 279,
-    "timeDay": 254,
-    "timeWeek": 227,
-    "timeMonth": 228,
-    "timeYear": 279,
+    "time": 280,
+    "timeDay": 369,
+    "timeWeek": 263,
+    "timeMonth": 236,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2025-02-08": 62
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 286,
-    "timeDay": 258,
-    "timeWeek": 200,
-    "timeMonth": 225,
+    "timeDay": 297,
+    "timeWeek": 225,
+    "timeMonth": 230,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 299,
-    "timeDay": 254,
-    "timeWeek": 220,
-    "timeMonth": 205,
+    "timeDay": 302,
+    "timeWeek": 246,
+    "timeMonth": 211,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 220,
-    "timeDay": 249,
-    "timeWeek": 205,
-    "timeMonth": 198,
+    "timeDay": 348,
+    "timeWeek": 238,
+    "timeMonth": 207,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 285,
-    "timeDay": 196,
-    "timeWeek": 187,
-    "timeMonth": 364,
-    "timeYear": 285,
+    "time": 284,
+    "timeDay": 226,
+    "timeWeek": 202,
+    "timeMonth": 367,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2025-02-08": 62
     }
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 252,
-    "timeDay": 347,
-    "timeWeek": 208,
-    "timeMonth": 209,
+    "timeDay": 313,
+    "timeWeek": 235,
+    "timeMonth": 215,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -172,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 270,
-    "timeDay": 203,
-    "timeWeek": 195,
-    "timeMonth": 189,
+    "timeDay": 193,
+    "timeWeek": 206,
+    "timeMonth": 192,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -191,11 +191,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 238,
-    "timeDay": 306,
-    "timeWeek": 204,
-    "timeMonth": 189,
-    "timeYear": 238,
+    "time": 237,
+    "timeDay": 204,
+    "timeWeek": 218,
+    "timeMonth": 193,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2025-02-08": 62
     }
@@ -211,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 273,
-    "timeDay": 204,
-    "timeWeek": 194,
-    "timeMonth": 191,
-    "timeYear": 273,
+    "time": 272,
+    "timeDay": 206,
+    "timeWeek": 204,
+    "timeMonth": 193,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2025-02-08": 62
     }
