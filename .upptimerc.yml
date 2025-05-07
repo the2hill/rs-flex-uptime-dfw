@@ -36,6 +36,7 @@ status-website:
   themeUrl: https://status.api.dfw3.rackspacecloud.com/flex.css
   name: Rackspace Flex Cloud
   introTitle: "Flex API Status"
+  customHeadHtml: '<meta http-equiv="refresh" content="45">'
   #introMessage:
   navbar:
     - title: DFW Status
