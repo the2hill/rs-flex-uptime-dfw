@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 284,
-    "timeDay": 360,
-    "timeWeek": 281,
+    "timeDay": 236,
+    "timeWeek": 276,
     "timeMonth": 242,
     "timeYear": 284,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/neutron.api.dfw3.rackspacecloud.com.ico",
     "slug": "neutron-api",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 262,
-    "timeDay": 363,
-    "timeWeek": 263,
-    "timeMonth": 321,
+    "timeDay": 210,
+    "timeWeek": 259,
+    "timeMonth": 318,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2025-05-02": 209,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 264,
-    "timeDay": 260,
-    "timeWeek": 213,
-    "timeMonth": 218,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 133,
+    "timeWeek": 198,
+    "timeMonth": 216,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2025-02-08": 62
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 267,
-    "timeDay": 357,
-    "timeWeek": 259,
-    "timeMonth": 218,
-    "timeYear": 267,
+    "time": 266,
+    "timeDay": 121,
+    "timeWeek": 241,
+    "timeMonth": 214,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2025-03-26": 31,
       "2025-02-08": 62
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 275,
-    "timeDay": 264,
-    "timeWeek": 205,
-    "timeMonth": 193,
-    "timeYear": 275,
+    "time": 274,
+    "timeDay": 160,
+    "timeWeek": 199,
+    "timeMonth": 192,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-02-08": 62
     }
@@ -114,8 +114,8 @@
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.69%",
     "time": 257,
-    "timeDay": 245,
-    "timeWeek": 179,
+    "timeDay": 127,
+    "timeWeek": 172,
     "timeMonth": 544,
     "timeYear": 257,
     "dailyMinutesDown": {
@@ -136,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 265,
-    "timeDay": 369,
-    "timeWeek": 231,
-    "timeMonth": 216,
+    "timeDay": 178,
+    "timeWeek": 213,
+    "timeMonth": 210,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -156,8 +156,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 239,
-    "timeDay": 191,
-    "timeWeek": 188,
+    "timeDay": 182,
+    "timeWeek": 184,
     "timeMonth": 190,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -175,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 252,
-    "timeDay": 294,
-    "timeWeek": 192,
-    "timeMonth": 204,
-    "timeYear": 252,
+    "time": 251,
+    "timeDay": 137,
+    "timeWeek": 179,
+    "timeMonth": 202,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2025-02-08": 62
     }
@@ -196,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 227,
-    "timeDay": 205,
+    "timeDay": 163,
     "timeWeek": 187,
-    "timeMonth": 182,
+    "timeMonth": 179,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2025-02-08": 62
@@ -216,9 +216,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 249,
-    "timeDay": 222,
-    "timeWeek": 169,
-    "timeMonth": 171,
+    "timeDay": 173,
+    "timeWeek": 159,
+    "timeMonth": 170,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2025-02-08": 62
