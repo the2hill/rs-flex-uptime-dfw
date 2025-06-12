@@ -4,18 +4,19 @@
     "url": "https://nova.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/nova.api.dfw3.rackspacecloud.com.ico",
     "slug": "nova-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.41%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.47%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.81%",
-    "time": 282,
-    "timeDay": 299,
+    "time": 283,
+    "timeDay": 212,
     "timeWeek": 297,
     "timeMonth": 266,
-    "timeYear": 282,
+    "timeYear": 283,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-06-11": 107,
       "2025-06-10": 148,
       "2025-02-21": 25,
@@ -27,9 +28,9 @@
     "url": "https://neutron.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/neutron.api.dfw3.rackspacecloud.com.ico",
     "slug": "neutron-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -39,6 +40,7 @@
     "timeMonth": 241,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-05-02": 209,
       "2025-02-08": 62
     }
@@ -48,9 +50,9 @@
     "url": "https://keystone.api.dfw3.rackspacecloud.com/v3",
     "icon": "https://icons.duckduckgo.com/ip3/keystone.api.dfw3.rackspacecloud.com.ico",
     "slug": "keystone-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -60,6 +62,7 @@
     "timeMonth": 230,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-02-08": 62
     }
   },
@@ -68,9 +71,9 @@
     "url": "https://glance.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/glance.api.dfw3.rackspacecloud.com.ico",
     "slug": "glance-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -80,6 +83,7 @@
     "timeMonth": 234,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-03-26": 31,
       "2025-02-08": 62
     }
@@ -89,9 +93,9 @@
     "url": "https://octavia.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/octavia.api.dfw3.rackspacecloud.com.ico",
     "slug": "octavia-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -101,6 +105,7 @@
     "timeMonth": 226,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-02-08": 62
     }
   },
@@ -109,9 +114,9 @@
     "url": "https://heat.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/heat.api.dfw3.rackspacecloud.com.ico",
     "slug": "heat-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "99.26%",
@@ -121,6 +126,7 @@
     "timeMonth": 494,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-05-28": 64,
       "2025-05-27": 158,
       "2025-05-26": 232,
@@ -137,9 +143,9 @@
     "url": "https://cinder.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cinder.api.dfw3.rackspacecloud.com.ico",
     "slug": "cinder-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -149,6 +155,7 @@
     "timeMonth": 203,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-02-08": 62
     }
   },
@@ -157,9 +164,9 @@
     "url": "https://cloudformation.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloudformation.api.dfw3.rackspacecloud.com.ico",
     "slug": "cloudformation-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -169,6 +176,7 @@
     "timeMonth": 200,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-02-08": 62
     }
   },
@@ -177,11 +185,11 @@
     "url": "https://placement.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/placement.api.dfw3.rackspacecloud.com.ico",
     "slug": "placement-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.62%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.87%",
     "time": 247,
     "timeDay": 201,
@@ -189,6 +197,7 @@
     "timeMonth": 193,
     "timeYear": 247,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-06-10": 168,
       "2025-02-08": 62
     }
@@ -198,9 +207,9 @@
     "url": "https://barbican.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/barbican.api.dfw3.rackspacecloud.com.ico",
     "slug": "barbican-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -210,6 +219,7 @@
     "timeMonth": 184,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-02-08": 62
     }
   },
@@ -218,9 +228,9 @@
     "url": "https://magnum.api.dfw3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/magnum.api.dfw3.rackspacecloud.com.ico",
     "slug": "magnum-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -230,6 +240,7 @@
     "timeMonth": 186,
     "timeYear": 244,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-02-08": 62
     }
   }
