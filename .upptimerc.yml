@@ -43,6 +43,8 @@ status-website:
       href: /
     - title: SJC Status
       href: https://status.api.sjc3.rackspacecloud.com
+    - title: IAD Status
+      href: https://status.api.iad3.rackspacecloud.com
     - title: Docs
       href: https://docs.rackspacecloud.com
 
