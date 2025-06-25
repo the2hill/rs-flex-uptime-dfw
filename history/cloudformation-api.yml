@@ -1,7 +1,7 @@
 url: https://cloudformation.api.dfw3.rackspacecloud.com
-status: down
-code: 502
-responseTime: 145
-lastUpdated: 2025-06-25T04:02:09.275Z
+status: up
+code: 300
+responseTime: 160
+lastUpdated: 2025-06-25T04:38:36.425Z
 startTime: 2025-02-05T16:58:12.320Z
 generator: Upptime <https://github.com/upptime/upptime>
