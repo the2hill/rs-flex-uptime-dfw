@@ -1,7 +1,7 @@
 url: https://keystone.api.dfw3.rackspacecloud.com/v3
-status: down
-code: 404
-responseTime: 303
-lastUpdated: 2025-11-04T23:08:52.975Z
+status: up
+code: 200
+responseTime: 204
+lastUpdated: 2025-11-04T23:23:14.047Z
 startTime: 2025-02-05T16:58:10.033Z
 generator: Upptime <https://github.com/upptime/upptime>
