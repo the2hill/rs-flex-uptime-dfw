@@ -1,7 +1,7 @@
 url: https://cinder.api.dfw3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 251
-lastUpdated: 2025-11-08T04:11:27.562Z
+status: up
+code: 300
+responseTime: 254
+lastUpdated: 2025-11-08T04:34:53.166Z
 startTime: 2025-02-05T16:58:11.892Z
 generator: Upptime <https://github.com/upptime/upptime>
