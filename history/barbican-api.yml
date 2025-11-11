@@ -1,7 +1,7 @@
 url: https://barbican.api.dfw3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 199
-lastUpdated: 2025-11-11T23:12:30.432Z
+status: up
+code: 300
+responseTime: 342
+lastUpdated: 2025-11-11T23:30:15.162Z
 startTime: 2025-02-05T16:58:13.226Z
 generator: Upptime <https://github.com/upptime/upptime>
