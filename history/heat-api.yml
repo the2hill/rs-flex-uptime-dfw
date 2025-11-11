@@ -1,7 +1,7 @@
 url: https://heat.api.dfw3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 256
-lastUpdated: 2025-11-11T20:55:35.946Z
+status: up
+code: 300
+responseTime: 267
+lastUpdated: 2025-11-11T21:19:44.640Z
 startTime: 2025-02-05T16:58:11.471Z
 generator: Upptime <https://github.com/upptime/upptime>
