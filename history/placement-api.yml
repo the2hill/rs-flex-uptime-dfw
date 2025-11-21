@@ -1,7 +1,7 @@
 url: https://placement.api.dfw3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 275
-lastUpdated: 2025-11-21T16:40:32.878Z
+status: up
+code: 200
+responseTime: 267
+lastUpdated: 2025-11-21T16:54:08.483Z
 startTime: 2025-02-05T16:58:12.752Z
 generator: Upptime <https://github.com/upptime/upptime>
