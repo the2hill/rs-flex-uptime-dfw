@@ -1,7 +1,7 @@
 url: https://glance.api.dfw3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 125
-lastUpdated: 2025-11-26T10:55:55.654Z
+status: up
+code: 300
+responseTime: 216
+lastUpdated: 2025-11-26T11:21:02.128Z
 startTime: 2025-02-05T16:58:10.460Z
 generator: Upptime <https://github.com/upptime/upptime>
