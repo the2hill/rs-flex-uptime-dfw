@@ -1,7 +1,7 @@
 url: https://octavia.api.dfw3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 167
-lastUpdated: 2026-01-06T20:26:13.737Z
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2026-01-06T20:46:24.130Z
 startTime: 2025-02-05T16:58:10.878Z
 generator: Upptime <https://github.com/upptime/upptime>
