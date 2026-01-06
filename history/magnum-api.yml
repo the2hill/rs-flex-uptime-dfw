@@ -1,7 +1,7 @@
 url: https://magnum.api.dfw3.rackspacecloud.com
-status: down
-code: 404
-responseTime: 133
-lastUpdated: 2026-01-06T20:26:19.257Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2026-01-06T20:46:30.446Z
 startTime: 2025-02-05T16:58:13.623Z
 generator: Upptime <https://github.com/upptime/upptime>
